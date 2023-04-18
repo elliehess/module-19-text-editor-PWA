@@ -17,7 +17,13 @@ so that I can reliably retrieve them for later use.
 - [Questions](#questions)
 
 ## Visuals
+<img width="1185" alt="Screen Shot 2023-04-17 at 7 23 09 PM" src="https://user-images.githubusercontent.com/118075347/232653692-347e8efd-93d3-46f2-899c-53cde1ba7e15.png">
 
+<img width="1420" alt="Screen Shot 2023-04-17 at 7 16 36 PM" src="https://user-images.githubusercontent.com/118075347/232652710-8e7d8493-571e-41db-a26a-a17a01995cf3.png">
+
+<img width="1365" alt="Screen Shot 2023-04-17 at 7 17 38 PM" src="https://user-images.githubusercontent.com/118075347/232653793-c51b28f2-7c5a-4b9b-8c1d-4b26d8ff61c3.png">
+
+<img width="1420" alt="Screen Shot 2023-04-17 at 7 16 36 PM" src="https://user-images.githubusercontent.com/118075347/232653811-a9daa262-0a61-45a8-ac0a-b0c1c105b9ae.png">
 
 ## Installation
 
