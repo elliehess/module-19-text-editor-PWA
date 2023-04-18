@@ -23,8 +23,6 @@ so that I can reliably retrieve them for later use.
 
 <img width="1365" alt="Screen Shot 2023-04-17 at 7 17 38 PM" src="https://user-images.githubusercontent.com/118075347/232653793-c51b28f2-7c5a-4b9b-8c1d-4b26d8ff61c3.png">
 
-<img width="1420" alt="Screen Shot 2023-04-17 at 7 16 36 PM" src="https://user-images.githubusercontent.com/118075347/232653811-a9daa262-0a61-45a8-ac0a-b0c1c105b9ae.png">
-
 ## Installation
 
 You will first need to install some dependencies.
