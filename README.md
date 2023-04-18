@@ -1,1 +1,61 @@
-# module-19-text-editor-PWA
+# Module 19 Text Editor PWA
+
+## Description
+
+As a developer, I am able to create notes or code snippets with or without an internet connection
+so that I can reliably retrieve them for later use. 
+
+
+## Table of Contents 
+
+- [Visuals](#visuals)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [License](#license)
+- [Sources](#sources)
+- [Questions](#questions)
+
+## Visuals
+
+
+## Installation
+
+You will first need to install some dependencies.
+In VS Code, open the Terminal. 
+On the command line, type the following commands:
+
+npm i 
+npm run start:dev
+npm run start 
+
+## Usage 
+This is a text editor web application. When you open this application in an editor, you will see a client server folder structure. After running `npm run start` from the root directory, the app should start up the backend and serve the client. If the text editor application is run from the terminal, you will find the JavaScript files have been bundled using webpack
+If you run the webpack plugins, a generated HTML file, service worker, and a manifest file will appear. You can use the next-gen JavaScript in the app and the text editor still functions in the browser without errors. Upon opening the text editor,
+you will see the IndexedDB has immediately created a database storage. You can enter content and subsequently click off of the DOM window and find that the content in the text editor has been saved with IndexedDB. If you reopen the text editor after closing it, the content in the text editor has been retrieved from the IndexedDB. You can download the web application as an icon on your desktop by clicking the Install button. When you load the web application, you will have a registered service worker using workbox. With the registered service worker, you should have the static assets pre cached upon loading along with subsequent pages and static assets. Upon being deployed to Heroku, there should be proper build scripts for a webpack application.
+
+## Tests 
+
+N/A
+
+## License
+
+Boost Software License 1.0
+
+## Sources
+
+Activity 28 on Module 19 for guidance
+Nick Herman also helped me with my 'database.js' to render the correct 'get' method
+
+## Badges
+
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+
+## Questions 
+
+Any questions? 
+Feel free to check out my work here:
+[@elliehess](@elliehess)
+
+Or you can reach out to me at my email address below:
+elhess03@gmail.com
